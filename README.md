@@ -1,12 +1,16 @@
-# Calculator gemaakt met functies in JS
+# Calculator gemaakt met functies in PHP
 
 ### Installatie node
 
-- **npm install prompt-sync**
-- https://nodejs.org/en
+- **installeer php**
+- **https://windows.php.net/download#php-8.3**
+
+### Php installatie video
+
+- **https://www.youtube.com/watch?v=n04w2SzGr_U**
 
 ### Gebruik
 
 - **Open cmd en ga naar de folder waar je dit hebt opgeslagen**
 - **Typ dan 'cd' en de folder naam**
-- **Daarna typ je node functies.js**
+- **Daarna typ je php functies.php**
