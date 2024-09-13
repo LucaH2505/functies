@@ -1,4 +1,4 @@
-# functies
+# Calculator gemaakt met functies in JS
 
 ### Installatie node
 
