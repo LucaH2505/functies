@@ -2,10 +2,10 @@
 
 ### Installatie node
 
-- **installeer php**
+- **Installeer PHP**
 - **https://windows.php.net/download#php-8.3**
 
-### Php installatie video
+### PHP installatie video
 
 - **https://www.youtube.com/watch?v=n04w2SzGr_U**
 
